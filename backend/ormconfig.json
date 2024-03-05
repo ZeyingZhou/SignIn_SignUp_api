@@ -4,7 +4,7 @@
    "port": 3306,
    "username": "root",
    "password": "Tom3531245471@",
-   "database": "world",
+   "database": "authentication",
    "synchronize": false,
    "logging": false,
    "entities": [

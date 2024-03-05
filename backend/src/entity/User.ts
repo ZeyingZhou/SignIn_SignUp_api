@@ -23,6 +23,9 @@ class User extends BaseClass {
     @MinLength(1)
     lastName: string
 
+    @Column()
+    active: boolean
+
 }
 
 export default User;
